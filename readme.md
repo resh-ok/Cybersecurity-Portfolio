@@ -21,17 +21,6 @@ I am learning cybersecurity through hands-on labs and projects. This repository 
 
 ---
 
-## Portfolio Structure
-
-Linux/
-SQL/
-Networking/
-Wireshark/
-Python/
-Security-Audit/
-Incident-Response/
-
----
 
 ## Goals
 - Build practical cybersecurity skills.
